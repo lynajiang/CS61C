@@ -1,0 +1,15 @@
+OSTYPE='darwin21'
+SH_VERSION='GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin21)
+Copyright (C) 2007 Free Software Foundation, Inc.'
+GIT_VERSION='git version 2.30.0'
+PYTHON3_VERSION='Python 3.8.3'
+PYTHON_VERSION='Python 2.7.18'
+PY_VERSION='gen-debug.sh: line 8: py: command not found'
+GCC_VERSION='Configured with: --prefix=/Library/Developer/CommandLineTools/usr --with-gxx-include-dir=/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/4.2.1
+Apple clang version 13.0.0 (clang-1300.0.27.3)
+Target: x86_64-apple-darwin21.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin'
+JAVA_VERSION='java version "15.0.2" 2021-01-19
+Java(TM) SE Runtime Environment (build 15.0.2+7-27)
+Java HotSpot(TM) 64-Bit Server VM (build 15.0.2+7-27, mixed mode, sharing)'
